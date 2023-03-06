@@ -1,4 +1,4 @@
-<a href="https://feedback-ui-arasaltug.netlify.app/" target="_blank">Live Demo</a>
+<a target="_blank" href="https://feedback-ui-arasaltug.netlify.app/">Live Demo</a>
 
 <br>
 
